@@ -1,3 +1,12 @@
+/**
+ * 1. package 명칭은 camel case(낙타법)로 명칭함.
+ * 2. class가 있는 package 명칭이 맞지 않음.
+ *      - 'src/Hello.java' -> 'src/Section1/Hello.java'
+ * 3. Polynomial 클래스가 없음.
+ * 4. while 문의 'ture' -> 'true'
+ * 5. naming 'poLys' -> 'polys'
+ * 6. Term 클래스가 없음.
+ */
 package Sectionl;
 
 import sun.security.util.math.intpoly.IntegerPolynomial;
